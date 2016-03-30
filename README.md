@@ -11,6 +11,6 @@ The changes consist of:
 - Links appear in black.
 - In the custom columns layout, placeholder text is hidden unless you hover over the column.
 
-## [Download Theme](San Francisco Light.ofocus-style)
+## [Download Theme](https://github.com/deaghean/omnifocus-themes/archive/master.zip)
 
 Feedback and suggestions are welcome. I can be reached at [josh@josh-hughes.com](mailto:josh@josh-hughes.com).
