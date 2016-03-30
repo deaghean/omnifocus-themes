@@ -1,4 +1,4 @@
-![Screenshot](screenshots.png)
+![Screenshot](screenshot.png)
 
 # San Francisco Light Theme
 
