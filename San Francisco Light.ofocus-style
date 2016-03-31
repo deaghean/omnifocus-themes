@@ -1926,7 +1926,7 @@
 			<key>verticalOffsetForButtonFieldsInMetadataColumnsView</key>
 			<real>0.0</real>
 			<key>verticalOffsetForTextFieldsInMetadataColumnsView</key>
-			<real>6</real>
+			<real>8</real>
 			<key>verticalSpaceAboveGenericTitleField</key>
 			<real>15</real>
 			<key>verticalSpaceAboveMetadataColumnsViewForActionCells</key>
@@ -2013,7 +2013,7 @@
 			<key>verticalOffsetForButtonFieldsInMetadataColumnsView</key>
 			<real>2</real>
 			<key>verticalOffsetForTextFieldsInMetadataColumnsView</key>
-			<real>7</real>
+			<real>6</real>
 			<key>verticalSpaceAboveGenericTitleField</key>
 			<real>15</real>
 			<key>verticalSpaceAboveMetadataColumnsViewForActionCells</key>
@@ -2100,7 +2100,7 @@
 			<key>verticalOffsetForButtonFieldsInMetadataColumnsView</key>
 			<real>3</real>
 			<key>verticalOffsetForTextFieldsInMetadataColumnsView</key>
-			<real>8</real>
+			<real>7</real>
 			<key>verticalSpaceAboveGenericTitleField</key>
 			<real>14</real>
 			<key>verticalSpaceAboveMetadataColumnsViewForActionCells</key>
@@ -2187,7 +2187,7 @@
 			<key>verticalOffsetForButtonFieldsInMetadataColumnsView</key>
 			<real>4</real>
 			<key>verticalOffsetForTextFieldsInMetadataColumnsView</key>
-			<real>8</real>
+			<real>11</real>
 			<key>verticalSpaceAboveGenericTitleField</key>
 			<real>16</real>
 			<key>verticalSpaceAboveMetadataColumnsViewForActionCells</key>
@@ -2274,7 +2274,7 @@
 			<key>verticalOffsetForButtonFieldsInMetadataColumnsView</key>
 			<real>0.0</real>
 			<key>verticalOffsetForTextFieldsInMetadataColumnsView</key>
-			<real>2</real>
+			<real>1</real>
 			<key>verticalSpaceAboveGenericTitleField</key>
 			<real>14</real>
 			<key>verticalSpaceAboveMetadataColumnsViewForActionCells</key>
