@@ -508,6 +508,27 @@
 				<real>0.68899999999999995</real>
 			</dict>
 		</dict>
+		<key>ExpectationsBarBackgroundColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.77500000000000002</real>
+		</dict>
+		<key>ExpectationsBarBorderColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.59999999999999998</real>
+		</dict>
+		<key>ExpectationsBarInactiveBackgroundColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.95999999999999996</real>
+		</dict>
 		<key>FocusExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
@@ -1500,13 +1521,6 @@
 			<real>0.59999999999999998</real>
 			<key>w</key>
 			<real>0.0</real>
-		</dict>
-		<key>StatusCircleDesaturatedBackgroundColor</key>
-		<dict>
-			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>1</real>
 		</dict>
 		<key>StatusCircleDueSoonColor</key>
 		<dict>

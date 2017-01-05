@@ -508,6 +508,27 @@
 				<real>0.79200000000000004</real>
 			</dict>
 		</dict>
+		<key>ExpectationsBarBackgroundColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.77500000000000002</real>
+		</dict>
+		<key>ExpectationsBarBorderColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.59999999999999998</real>
+		</dict>
+		<key>ExpectationsBarInactiveBackgroundColor</key>
+		<dict>
+			<key>a</key>
+			<real>1</real>
+			<key>w</key>
+			<real>0.95999999999999996</real>
+		</dict>
 		<key>FocusExpectationsBarBottomColor</key>
 		<dict>
 			<key>a</key>
@@ -1453,13 +1474,6 @@
 			<key>w</key>
 			<real>0.0</real>
 		</dict>
-		<key>StatusCircleDesaturatedBackgroundColor</key>
-		<dict>
-			<key>a</key>
-			<real>1</real>
-			<key>w</key>
-			<real>1</real>
-		</dict>
 		<key>StatusCircleDueSoonColor</key>
 		<dict>
 			<key>a</key>
@@ -1724,6 +1738,34 @@
 				<real>8</real>
 			</dict>
 			<key>OFITextStyleSidebarTabTitle:ru</key>
+			<dict>
+				<key>font-name</key>
+				<string>semibold</string>
+				<key>font-size</key>
+				<real>8</real>
+			</dict>
+			<key>OFITextStyleCustomizedSidebarTabTitle</key>
+			<dict>
+				<key>font-name</key>
+				<string>semibold</string>
+				<key>font-size</key>
+				<real>9.5</real>
+			</dict>
+			<key>OFITextStyleCustomizedSidebarTabTitle:de</key>
+			<dict>
+				<key>font-name</key>
+				<string>semibold</string>
+				<key>font-size</key>
+				<real>8</real>
+			</dict>
+			<key>OFITextStyleCustomizedSidebarTabTitle:ja</key>
+			<dict>
+				<key>font-name</key>
+				<string>semibold</string>
+				<key>font-size</key>
+				<real>8</real>
+			</dict>
+			<key>OFITextStyleCustomizedSidebarTabTitle:ru</key>
 			<dict>
 				<key>font-name</key>
 				<string>semibold</string>
