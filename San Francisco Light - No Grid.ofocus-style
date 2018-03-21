@@ -1976,7 +1976,7 @@
 			<key>verticalSpaceAboveTitleFieldForForecastEventHeaderCells</key>
 			<real>9</real>
 			<key>verticalSpaceAboveTitleFieldForProjectCells</key>
-			<real>7</real>
+			<real>20</real>
 			<key>verticalSpaceBelowGenericTitleField</key>
 			<real>12</real>
 			<key>verticalSpaceBelowTitleFieldForForecastEventHeaderCells</key>
@@ -2063,7 +2063,7 @@
 			<key>verticalSpaceAboveTitleFieldForForecastEventHeaderCells</key>
 			<real>9</real>
 			<key>verticalSpaceAboveTitleFieldForProjectCells</key>
-			<real>8</real>
+			<real>21</real>
 			<key>verticalSpaceBelowGenericTitleField</key>
 			<real>12</real>
 			<key>verticalSpaceBelowTitleFieldForForecastEventHeaderCells</key>
@@ -2150,7 +2150,7 @@
 			<key>verticalSpaceAboveTitleFieldForForecastEventHeaderCells</key>
 			<real>9</real>
 			<key>verticalSpaceAboveTitleFieldForProjectCells</key>
-			<real>7</real>
+			<real>20</real>
 			<key>verticalSpaceBelowGenericTitleField</key>
 			<real>12</real>
 			<key>verticalSpaceBelowTitleFieldForForecastEventHeaderCells</key>
@@ -2237,7 +2237,7 @@
 			<key>verticalSpaceAboveTitleFieldForForecastEventHeaderCells</key>
 			<real>9</real>
 			<key>verticalSpaceAboveTitleFieldForProjectCells</key>
-			<real>7</real>
+			<real>20</real>
 			<key>verticalSpaceBelowGenericTitleField</key>
 			<real>12</real>
 			<key>verticalSpaceBelowTitleFieldForForecastEventHeaderCells</key>
@@ -2324,7 +2324,7 @@
 			<key>verticalSpaceAboveTitleFieldForForecastEventHeaderCells</key>
 			<real>9</real>
 			<key>verticalSpaceAboveTitleFieldForProjectCells</key>
-			<real>8</real>
+			<real>21</real>
 			<key>verticalSpaceBelowGenericTitleField</key>
 			<real>12</real>
 			<key>verticalSpaceBelowTitleFieldForForecastEventHeaderCells</key>
