@@ -13,6 +13,8 @@ The changes consist of:
 
 [Download Theme](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light.ofocus-style)
 
+Also available [without hidden placeholder text](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%2C%20With%20Placeholders.ofocus-style).
+
 ![Screenshot of San Francisco Light Theme, No Grid](screenshots/san-francisco-light-no-grid.jpg)
 
 # [San Francisco Light Theme, No Grid](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%20-%20No%20Grid.ofocus-style)
@@ -27,6 +29,8 @@ The changes consist of:
 - In the custom columns layout, placeholder text is hidden unless you hover over the column.
 
 [Download Theme](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%20-%20No%20Grid.ofocus-style)
+
+Also available [without hidden placeholder text](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%20-%20No%20Grid%2C%20With%20Placeholders.ofocus-style).
 
 # [Dark Sidebar, Experimental](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/Dark%20Sidebar.ofocus-style)
 
