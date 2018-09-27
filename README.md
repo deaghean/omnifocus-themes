@@ -1,3 +1,5 @@
+**Note: OmniFocus 3 for Mac removes support for custom themes. These will only work with version 2.**
+
 ![Screenshot of San Francisco Light Theme](screenshots/san-francisco-light.jpg)
 
 # [San Francisco Light Theme](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light.ofocus-style)
@@ -20,13 +22,6 @@ Also available [without hidden placeholder text](https://raw.githubusercontent.c
 # [San Francisco Light Theme, No Grid](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%20-%20No%20Grid.ofocus-style)
 
 This theme is a variation of San Francisco Light that removes grid lines, and adds space between projects and folders.
-
-The changes consist of:
-
-- Lots of font size and spacing adjustments.
-- Overdue tasks appear in red.
-- Links appear in black.
-- In the custom columns layout, placeholder text is hidden unless you hover over the column.
 
 [Download Theme](https://raw.githubusercontent.com/deaghean/omnifocus-themes/master/San%20Francisco%20Light%20-%20No%20Grid.ofocus-style)
 
